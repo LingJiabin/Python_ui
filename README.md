@@ -9,4 +9,4 @@
 
 ### 界面
 
-![主界面](https://github.com/LingJiabin/Python_ui/images/1.png)
+![image](images/1.png)

@@ -9,4 +9,4 @@
 
 ### 界面
 
-![主界面](https://github.com/LingJiabin/Python_ui/raw/master/images/1.png)
+![主界面](https://github.com/LingJiabin/Python_ui/images/1.png)
